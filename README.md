@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Machine Learning and practising data structures**
 
 - 📫 How to reach me **ayushkumar250801@gmail.com**
+- https://leetcode.com/u/aayush825/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
